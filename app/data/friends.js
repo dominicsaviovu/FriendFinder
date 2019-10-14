@@ -17,32 +17,32 @@ var friends = [
       ]
     },
     {
-      name: "Aaron Nguyen",
-      photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlQ_sKmLWPTYjiBwj_0-AkEJfFGJ1wezsQHHS50PBcKeSSkdLk",
+      name: "Dominic Torretto",
+      photo: "https://pbs.twimg.com/profile_images/378800000843124368/140a9b5cda480aaa758905a107243bc2.jpeg",
       scores: [
         "4",
-        "2",
+        "5",
+        "5",
+        "5",
         "5",
         "1",
-        "3",
         "2",
-        "2",
-        "1",
+        "5",
         "3",
-        "2"
+        "5"
       ]
     },
     {
-      name: "Lili Vu",
-      photo: "https://uaquidditch.weebly.com/uploads/8/9/3/4/89346246/wo_orig.jpg",
+      name: "Brian O'Connor",
+      photo: "https://pbs.twimg.com/profile_images/603982799461318656/B5_Eahju_400x400.jpg",
       scores: [
-        "5",
-        "2",
         "2",
         "2",
         "4",
-        "1",
         "3",
+        "2",
+        "1",
+        "5",
         "2",
         "5",
         "5"
